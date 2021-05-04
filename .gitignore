@@ -3,7 +3,7 @@
 *.pyc
 
 # VENV
-venv/
+/venv/
 
 # Distribution / packaging
 .Python
