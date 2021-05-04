@@ -1,0 +1,9 @@
+class NotificationHelper:
+    # STATUS
+    STATUS_NOTIFIED = 'NOTIFIED'
+    STATUS_OTHER = 'OTHER'
+
+    STATUS_CHOICES = (
+        (STATUS_NOTIFIED, STATUS_NOTIFIED),
+        (STATUS_OTHER, STATUS_OTHER),
+    )
