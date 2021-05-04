@@ -6,8 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-dominate = "*"
-inflection = "*"
+python-dotenv = "*"
+storage_service = "*"
+djangorestframework = "*"
+Django = "*"
+simplejson = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8.6"
